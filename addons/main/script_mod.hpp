@@ -1,5 +1,5 @@
 #define MAINPREFIX x
-#define PREFIX grad_modTemplate
+#define PREFIX grad_terrainMasks
 
 #include "script_version.hpp"
 
@@ -8,7 +8,6 @@
 
 #define REQUIRED_VERSION 1.80
 #define REQUIRED_CBA_VERSION { 3, 5, 0 }
-#define REQUIRED_ACE_VERSION { 3, 11, 0 }
 
 #define QMAIN_ADDON QUOTE(MAIN_ADDON)
 #define QCOMPONENT QUOTE(COMPONENT)
