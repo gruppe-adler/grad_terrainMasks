@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="GRAD">
+    <Package name="terrainMasks">
+        <Key ID="STR_grad_terrainMasks_assets_getGroundTexture">
+            <English>Log object ground texture</English>
+            <German>Kopiere Objekt Boden Textur</German>
+        </Key>
+    <Package>
+<Project>
